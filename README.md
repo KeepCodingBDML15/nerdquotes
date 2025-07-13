@@ -47,7 +47,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > "La vida es aquello que pasa  mientras estás ocupado descifrando el código de Matrix."
 
 *John Lennon*
+-------
 
+>"Que el dato te acompañe."
+
+– *Anónimo*
 -------
 
 > "Ni un día cero"
